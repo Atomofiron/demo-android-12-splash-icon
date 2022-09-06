@@ -1,5 +1,2 @@
-
-# Android 12
-![screenshot](https://github.com/Atomofiron/android-window-insets-compat/blob/main/stuff/splash-android-12.png)
-# Samsung Android 12
-![screenshot](https://github.com/Atomofiron/android-window-insets-compat/blob/main/stuff/splash-android-12-samsung.jpg)
+# Android 12 & Samsung Android 12
+![screenshots](https://github.com/Atomofiron/demo-android-12-splash-icon/blob/main/stuff/splashes.png)
